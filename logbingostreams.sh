@@ -1,0 +1,1 @@
+node dist/index.js > bingolog.txt
